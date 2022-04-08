@@ -17,3 +17,4 @@ I una mica de `HTML`:
 ```html
 <html><body></body></html>
 ````
+![Foto Gatete](./unnamed.png)
